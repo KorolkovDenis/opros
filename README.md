@@ -4,7 +4,7 @@
 
 а) Да
 
-![screen1](https://github.com/KorolkovDenis/)
+![screen1](https://github.com/KorolkovDenis/opros/blob/main/screenshots/screen1.jpg)
 
 ###2. Нужна ли вам справка об обучении после сдачи дипломной работы? Справка выдаётся всем студентам, в том числе тем, у кого нет диплома о высшем или среднем специальном образовании.
 
